@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHK2E+oH4U/Aj8MIaMlmpldl+bB//PW0AS0gitnB5ahzb9rctyzOlZDQYaSND8y7Td+jJopc/e7vEYhkRM8XyA==",
+  "dgSpecHash": "6XbXwoA+0/2inUumgKVHzax9hrBYiCmrM3jIyINWncsTLgM0bFGIDCQGbUpKaG+/hsxiXtRICXzMKKFlGsXcRw==",
   "success": true,
-  "projectFilePath": "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
+  "projectFilePath": "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

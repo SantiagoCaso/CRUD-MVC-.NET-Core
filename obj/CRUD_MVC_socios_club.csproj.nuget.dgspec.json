@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj": {}
+    "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj": {}
   },
   "projects": {
-    "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj": {
+    "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
+        "projectUniqueName": "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
         "projectName": "CRUD_MVC_socios_club",
-        "projectPath": "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
+        "projectPath": "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\CRUD_MVC_socios_club.csproj",
         "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\CRUD MVC .NET Core\\CRUD_MVC_socios_club\\obj\\",
+        "outputPath": "C:\\SourceCode\\CRUD-MVC-NET-Core\\CRUD_MVC_socios_club\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
