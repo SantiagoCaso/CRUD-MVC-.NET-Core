@@ -6,17 +6,21 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CRUD_MVC_socios_club.Models;
+using Newtonsoft.Json.Linq;
 
 namespace CRUD_MVC_socios_club.Controllers
 {
     public class SociosDatumsController : Controller
     {
-        private readonly socios_club_dbContext _context;
+        private readonly socios_club_dbContext _context; 
+        /*define una variable privada de solo lectura llamada _context que almacenará una instancia de socios_club_dbContext*/
 
         public SociosDatumsController(socios_club_dbContext context)
         {
             _context = context;
         }
+        //El método Constructor es el que se llama cuando se crea una instancia de la clase SociosDatumsController.
+        //Este constructor toma un parámetro de tipo socios_club_dbContext llamado context y lo asigna a la variable _context.
 
         // GET: SociosDatums
         public async Task<IActionResult> Index()
